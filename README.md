@@ -1,3 +1,5 @@
 # Vue 3 + Vite Template
 
-vite-vue3-template
+* "vue": 3.x
+* "vite": 4.x
+* "rollup-plugin-visualizer": 5.x
